@@ -13,6 +13,10 @@
 
 ##
 
-<div>
-  
+<div style="display: inline_block"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60px"/>
 </div>
+
+##
+
