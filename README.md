@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I am currently unemployed but I am looking for an internship.
+- 🔭 I am currently studying but I am looking for an internship.
 - 🌱 I’m currently learning java
 - 👨‍🎓 Studying at Facens college
 
