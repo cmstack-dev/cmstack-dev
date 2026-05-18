@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning java
 - 👨‍🎓 Studying at Facens college
 
-<p align="center">
+<p align="right">
   <img src="https://i.imgur.com/JCYcAMz.gif" width="200px">
 </p>
 <p align="left">
